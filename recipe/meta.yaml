@@ -1,5 +1,5 @@
 {% set name = "pure-sasl" %}
-{% set version = "0.4.0" %}
+{% set version = "0.5.0" %}
 {% set hashtype = "sha256" %}
 {% set hash =  '198fc63d8670e62696a0ebc17baebc278afa67264eb09e164813121c67b002e6' %}
 
