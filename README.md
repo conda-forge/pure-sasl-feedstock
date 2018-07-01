@@ -14,12 +14,15 @@ Summary: A pure python SASL client
 Current build status
 ====================
 
-All platforms: [![Circle CI](https://circleci.com/gh/conda-forge/pure-sasl-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/pure-sasl-feedstock)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/pure-sasl-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/pure-sasl-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/pure-sasl/badges/version.svg)](https://anaconda.org/conda-forge/pure-sasl)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/pure-sasl/badges/downloads.svg)](https://anaconda.org/conda-forge/pure-sasl)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-pure--sasl-green.svg)](https://anaconda.org/conda-forge/pure-sasl) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/pure-sasl.svg)](https://anaconda.org/conda-forge/pure-sasl) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/pure-sasl.svg)](https://anaconda.org/conda-forge/pure-sasl) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/pure-sasl.svg)](https://anaconda.org/conda-forge/pure-sasl) |
 
 Installing pure-sasl
 ====================
