@@ -1,6 +1,6 @@
 {% set name = "pure-sasl" %}
-{% set version = "0.5.1" %}
-{% set sha256 = '25ba5dbb6eb25850a5e5509a8266f3bc506cf05eccacdb07613fbe82dc8a10f8' %}
+{% set version = "0.6.1" %}
+{% set sha256 = "54458deb9574e293aa58d820f4a94271770401409c4cd8b3dd86f1a827cffde7" %}
 
 package:
   name: {{ name }}
